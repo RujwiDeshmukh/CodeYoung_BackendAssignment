@@ -1,0 +1,6 @@
+/node_modules
+HOST= "localhost",
+User= "root",
+Password= "Rujwi@2524",
+DB= "translationdb",
+dialect= "mysql"
